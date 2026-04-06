@@ -34,7 +34,7 @@ pip install transformers==5.5.0 datasets==3.3.2 accelerate==1.4.0 bitsandbytes==
 - `Tuning_Qwen3.ipynb`: Jupyter notebook que contém o treinamento QLoRA do modelo Qwen3. Ele armazena os adaptadores no diretório `final-adapter/`.
 - `Chat_Qwen3.ipynb`: Jupyter notebook que faz o teste do modelo Qwen3 antes e depois do fine-tuning, utilizando 10 prompts diferentes para avaliação.
 
-OBS: os diretórios `data/` (contendo os dados sintéticos) e `final-adapter/` (os adaptadores QLoRA) **NÃO** estão neste repositório por conta do tamanho. Porém, está disponível nos links abaixo. Não é necessário transferí-los para este repositório caso queira usar os dados obtidos na minha iteração, pois os dois Jupyter Notebooks fazem o download automático caso não detectem os diretórios necessários.
+OBS: os diretórios `data/` (contendo os dados sintéticos) e `final-adapter/` (os adaptadores QLoRA) **NÃO** estão neste repositório por conta do tamanho. Porém, estão disponíveis nos links abaixo. Não é necessário transferí-los para este repositório caso queira usar os dados obtidos na minha iteração, pois os dois Jupyter Notebooks fazem o download automático caso não detectem os diretórios necessários.
 
 - `data/`: https://drive.google.com/drive/folders/1NwcGXKS81wNPqpbGg2gX8i4WqGTwmYt_?usp=drive_link
 - `final-adapter/`: https://drive.google.com/drive/folders/1KFSGdqg5H5MeE8QA7Dt7tjt904_I7bwL?usp=sharing
