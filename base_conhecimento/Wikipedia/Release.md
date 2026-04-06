@@ -1,0 +1,11 @@
+# Release
+
+The band are scheduled to promote the album further through The Mountain Tour, with concerts in Europe between March and June 2026.[65] A deluxe version of the album was also announced, with the addition of four bonus tracks, which include contributions from Niloy Ahsan and Pamela Jain, as well as additional contributions from the Hindu Jea Band Jaipur and Anoushka Shankar, who both contributed to the standard edition of the album too. One of the bonus tracks is a cover of Kishore Kumar's "Mere Sapno Ki Rani", from the 1969 Bollywood film Aradhana.[18]
+
+On 17 September, the band premiered the song "Damascus" at Brian Eno's Together for Palestine concert at Wembley Arena in London alongside Omar Souleyman and Yasiin Bey, where Bey also recited the English translation of Imam Muhammad b. Nāsir al-Darʿī's The Prayer of the Oppressed.[66] On 8 October, the band released "The Manifesto" as the second single.[67] On 6 November, the band released "The God of Lying" as the third single.[68] On 2 December, an additional "House of Kong" exhibition in Los Angeles was announced, alongside two shows of the full album at the Hollywood Palladium in February 2026.[69] On 12 December, "Damascus" was released as the album's fourth single. On the same day, Gorillaz announced that The Mountain would now be released earlier, on 27 February 2026.[20]
+
+On 15 January, the band released "The Hardest Thing" and "Orange County" as a double single. Argentinian producer Bizarrap, who worked on the latter, released an alternate mix of the song a week later, on 23 January.[70][71] The band performed the single on The Graham Norton Show on 13 February, with guests, Kara Jackson and Anoushka Shankar.[72]
+
+On 3 March 2026, the band announced their North American tour in support of the album, running from September to October. As part of the tour, the band will perform at the Shaky Knees Music Festival in Atlanta, Georgia. The band will be supported on the tour by Little Simz, and Deltron 3030.[73]
+
+On 7 March 2026, the band promoted the album as the musical guests on Saturday Night Live, with guest host, Ryan Gosling, marking the band's first ever appearance on the show, performing "Clint Eastwood" with Del the Funky Homosapien and "The Moon Cave" with Asha Puthli, Black Thought & Anoushka Shankar.[74][75][76]
