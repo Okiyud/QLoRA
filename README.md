@@ -23,7 +23,7 @@ O código foi realizado na linguagem Python. Como boa parte do uso do SLM foi fe
 Recomenda-se o uso da mesma versão python para evitar incompatibilidade com as bibliotecas.
 
 ```python
-pip install torch==2.x.x --index-url https://download.pytorch.org/whl/cu128
+pip install torch==2.10.0 --index-url https://download.pytorch.org/whl/cu128
 ```
 
 ```python
