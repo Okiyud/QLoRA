@@ -1,6 +1,6 @@
 # Fine-tuning de um modelo utilizando QLoRA
 
-Este repositório contém um trabalho de Processamento de Linguagem Natural. O trabalho consiste no fine-tuning de um Small Language Model (SML) com um dataset sintético produzido por um Large Language Model (LLM). O dataset deve conter informações sobre um assunto atual (2025/2026) para avaliar o aprendizado do modelo por meio do treinamento utilizando QLoRA.
+Este repositório contém um trabalho de Processamento de Linguagem Natural. O trabalho consiste no fine-tuning de um Small Language Model (SLM) com um dataset sintético produzido por um Large Language Model (LLM). O dataset deve conter informações sobre um assunto atual (2025/2026) para avaliar o aprendizado do modelo por meio do treinamento utilizando QLoRA.
 
 O tema escolhido foi o lançamento do álbum do Gorillaz, "The Mountain". O álbum foi lançado em 27 de Fevereiro de 2026. 
 
