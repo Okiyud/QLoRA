@@ -23,7 +23,11 @@ O código foi realizado na linguagem Python. Como boa parte do uso do SLM foi fe
 Recomenda-se o uso da mesma versão python para evitar incompatibilidade com as bibliotecas.
 
 ```python
-pip install transformers==5.5.0 datasets==3.3.2 accelerate==1.4.0 bitsandbytes==0.49.2 trl==0.15.2 peft==0.14.0 "torch>=2.10.0" gdown python-dotenv google-genai jupyter ipykernel
+pip install torch==2.x.x --index-url https://download.pytorch.org/whl/cu128
+```
+
+```python
+pip install transformers==5.5.0 datasets==3.3.2 accelerate==1.4.0 bitsandbytes==0.49.2 trl==0.15.2 peft==0.14.0 gdown python-dotenv google-genai jupyter ipykernel
 ```
 
 ## Estrutura do repositório
